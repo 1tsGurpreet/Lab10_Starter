@@ -1,8 +1,12 @@
 # Lab 10 - Starter
-canny.io: https://cse110-lab10-1tsgurpreet.canny.io/
+Roadmap: https://cse110-lab10-1tsgurpreet.canny.io/
 
-index.html: https://1tsgurpreet.github.io/Lab10_Starter/
+Feature Requests: https://cse110-lab10-1tsgurpreet.canny.io/feature-requests
 
-speechSynth.html: https://1tsgurpreet.github.io/Lab10_Starter/speechSynth.html
+index.html A/B : https://1tsgurpreet.github.io/Lab10_Starter/
 
-The speechSynth feature is going to be that 50% of the users will get a purple background.
+speechSynth.html A/B: https://1tsgurpreet.github.io/Lab10_Starter/speechSynth.html
+
+The speechSynth A/B feature is going to be that 50% of the users will get a purple background.
+
+Gurpreet Singh
